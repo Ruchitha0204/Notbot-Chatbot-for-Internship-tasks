@@ -1,5 +1,5 @@
 Notbot-Chatbot-for-Internship-tasks
-Small Chat Bot project which gives automatic replies to the user. for this i have used multiple languages.
+Small Chat Bot project which gives automatic replies to the user.
 
 A step-by-step tutorial to create a WhatsApp Bot using Twilio and Python.
 
